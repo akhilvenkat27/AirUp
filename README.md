@@ -51,5 +51,5 @@ The profit for the investor can be obtained by applying multilinear regression o
 Application Overview: https://getairup.000webhostapp.com/index.html  
 (Just for reference,non functional website)  
 
-Application Working : https://drive.google.com/file/d/1tDE3a6EVcWjahPxzk-7gkJHhXR3WL8fe/view?usp=sharing
+Application Working : https://drive.google.com/file/d/1tDE3a6EVcWjahPxzk-7gkJHhXR3WL8fe/view?usp=sharing  
 (Detailed Explanation from our team)
